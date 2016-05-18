@@ -192,7 +192,7 @@
 											class="badge bg-red pull-right">50%</span> <span>Settings</span>
 									</a></li>
 									<li><a href="javascript:;">Help</a></li>
-									<li><a href="logout.cbi"><i
+									<li><a href="loginForm.jsp"><i
 											class="fa fa-sign-out pull-right"></i> Log Out</a></li>
 								</ul></li>
 
